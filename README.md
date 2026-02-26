@@ -48,9 +48,3 @@ Week 2: File persistence & authentication
 Week 3: Transactions & transfer  
 Week 4: Admin & testing  
 Week 5: Optimization & documentation  
-
-## Status
-Architecture finalized. Development in progress.
-2. Compile using GCC:
-   ```bash
-   gcc src/*.c -Iinclude -o securebank
