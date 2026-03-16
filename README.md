@@ -1,5 +1,5 @@
-# SecureBank-Pro
-SecureBank Pro is a modular, multi-user, file-based banking management system implemented in C
+# SecureBank
+SecureBank  is a modular, multi-user, file-based banking management system implemented in C
 ## Project Overview
 SecureBank Pro is a modular, multi-user, file-based banking management system implemented in C. The system simulates core banking operations such as account creation, authentication, deposit, withdrawal, fund transfer, and transaction logging with persistent data storage.
 
